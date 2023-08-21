@@ -59,7 +59,7 @@
       "prettier --write"
     ]
   },
-  "hudky":{
+  "husky":{
     "hooks":{
       "pre-commit": "lint-staged"
     }
